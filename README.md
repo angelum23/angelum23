@@ -1,24 +1,11 @@
 ### Hi there 👋
 
-Hello, my name is Ângelo, I'm 19 years old and I'm a software developer.
+Hello, my name is Ângelo, I'm 20 years old and I'm a software developer.
 
 Graduated from technical education in computer technician by SATC in the year 2020, I am currently pursuing a bachelor's degree in software engineering, also by SATC.
 
-I'm a full-stack developer, currently working with .net and javascript and studying other languages and frameworks, such as typescript, react, angular, python, among others.
-
-If you want to chat, feel free to message me :D
+I'm a full-stack developer, currently working with .net and javascript and studying other languages and frameworks, such as react, python, among others.
 
 <!--
 **angelum23/angelum23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
